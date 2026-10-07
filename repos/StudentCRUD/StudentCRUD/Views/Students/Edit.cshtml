@@ -1,0 +1,23 @@
+﻿@model StudentCRUD.Models.Student
+
+<h2>Edit Student</h2>
+
+<form asp-action="Edit" method="post">
+
+    <input type="hidden" asp-for="Id" />
+
+    Name:
+    <input asp-for="Name" />
+    <br /><br />
+
+    Course:
+    <input asp-for="Course" />
+    <br /><br />
+
+    Age:
+    <input asp-for="Age" />
+    <br /><br />
+
+    <button type="submit">Update</button>
+
+</form>

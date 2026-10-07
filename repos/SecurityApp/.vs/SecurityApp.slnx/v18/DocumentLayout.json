@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\This Pc\\source\\repos\\SecurityApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8956E3AA-37FC-47A3-96A1-5243F1010C41}|SecurityApp\\SecurityApp.csproj|c:\\users\\this pc\\source\\repos\\securityapp\\securityapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8956E3AA-37FC-47A3-96A1-5243F1010C41}|SecurityApp\\SecurityApp.csproj|solutionrelative:securityapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8956E3AA-37FC-47A3-96A1-5243F1010C41}|SecurityApp\\SecurityApp.csproj|c:\\users\\this pc\\source\\repos\\securityapp\\securityapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8956E3AA-37FC-47A3-96A1-5243F1010C41}|SecurityApp\\SecurityApp.csproj|solutionrelative:securityapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8956E3AA-37FC-47A3-96A1-5243F1010C41}|SecurityApp\\SecurityApp.csproj|c:\\users\\this pc\\source\\repos\\securityapp\\securityapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8956E3AA-37FC-47A3-96A1-5243F1010C41}|SecurityApp\\SecurityApp.csproj|solutionrelative:securityapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8956E3AA-37FC-47A3-96A1-5243F1010C41}|SecurityApp\\SecurityApp.csproj|c:\\users\\this pc\\source\\repos\\securityapp\\securityapp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8956E3AA-37FC-47A3-96A1-5243F1010C41}|SecurityApp\\SecurityApp.csproj|solutionrelative:securityapp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8956E3AA-37FC-47A3-96A1-5243F1010C41}|SecurityApp\\SecurityApp.csproj|c:\\users\\this pc\\source\\repos\\securityapp\\securityapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8956E3AA-37FC-47A3-96A1-5243F1010C41}|SecurityApp\\SecurityApp.csproj|solutionrelative:securityapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8956E3AA-37FC-47A3-96A1-5243F1010C41}|SecurityApp\\SecurityApp.csproj|c:\\users\\this pc\\source\\repos\\securityapp\\securityapp\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8956E3AA-37FC-47A3-96A1-5243F1010C41}|SecurityApp\\SecurityApp.csproj|solutionrelative:securityapp\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8956E3AA-37FC-47A3-96A1-5243F1010C41}|SecurityApp\\SecurityApp.csproj|c:\\users\\this pc\\source\\repos\\securityapp\\securityapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8956E3AA-37FC-47A3-96A1-5243F1010C41}|SecurityApp\\SecurityApp.csproj|solutionrelative:securityapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8956E3AA-37FC-47A3-96A1-5243F1010C41}|SecurityApp\\SecurityApp.csproj|c:\\users\\this pc\\source\\repos\\securityapp\\securityapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8956E3AA-37FC-47A3-96A1-5243F1010C41}|SecurityApp\\SecurityApp.csproj|solutionrelative:securityapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8956E3AA-37FC-47A3-96A1-5243F1010C41}|SecurityApp\\SecurityApp.csproj|c:\\users\\this pc\\source\\repos\\securityapp\\securityapp\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8956E3AA-37FC-47A3-96A1-5243F1010C41}|SecurityApp\\SecurityApp.csproj|solutionrelative:securityapp\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\This Pc\\source\\repos\\SecurityApp\\SecurityApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SecurityApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\This Pc\\source\\repos\\SecurityApp\\SecurityApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SecurityApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T22:49:35.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\This Pc\\source\\repos\\SecurityApp\\SecurityApp\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "SecurityApp\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\This Pc\\source\\repos\\SecurityApp\\SecurityApp\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "SecurityApp\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T22:49:23.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\This Pc\\source\\repos\\SecurityApp\\SecurityApp\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "SecurityApp\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\This Pc\\source\\repos\\SecurityApp\\SecurityApp\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "SecurityApp\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T22:49:07.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\This Pc\\source\\repos\\SecurityApp\\SecurityApp\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "SecurityApp\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\This Pc\\source\\repos\\SecurityApp\\SecurityApp\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "SecurityApp\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAADwvyAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T22:48:32.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\This Pc\\source\\repos\\SecurityApp\\SecurityApp\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "SecurityApp\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\This Pc\\source\\repos\\SecurityApp\\SecurityApp\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "SecurityApp\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T22:43:43.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\This Pc\\source\\repos\\SecurityApp\\SecurityApp\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "SecurityApp\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\This Pc\\source\\repos\\SecurityApp\\SecurityApp\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "SecurityApp\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T22:43:06.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\This Pc\\source\\repos\\SecurityApp\\SecurityApp\\Program.cs",
+              "RelativeDocumentMoniker": "SecurityApp\\Program.cs",
+              "ToolTip": "C:\\Users\\This Pc\\source\\repos\\SecurityApp\\SecurityApp\\Program.cs",
+              "RelativeToolTip": "SecurityApp\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T22:42:05.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\This Pc\\source\\repos\\SecurityApp\\SecurityApp\\appsettings.json",
+              "RelativeDocumentMoniker": "SecurityApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\This Pc\\source\\repos\\SecurityApp\\SecurityApp\\appsettings.json",
+              "RelativeToolTip": "SecurityApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-06T22:41:54.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\This Pc\\source\\repos\\SecurityApp\\SecurityApp\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SecurityApp\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\This Pc\\source\\repos\\SecurityApp\\SecurityApp\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SecurityApp\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T22:41:40.616Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

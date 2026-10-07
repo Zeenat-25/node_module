@@ -1,0 +1,41 @@
+﻿@page
+@model IndexModel
+
+<h2>Student Registration</h2>
+
+<form method="post">
+
+    Student ID:
+    <input asp-for="Student.StudentId" />
+    <br /><br />
+
+    Name:
+    <input asp-for="Student.Name" />
+    <br /><br />
+
+    Email:
+    <input asp-for="Student.Email" />
+    <br /><br />
+
+    Course:
+    <select asp-for="Student.Course">
+        <option>BCA</option>
+        <option>BSc IT</option>
+        <option>MSc IT</option>
+    </select>
+
+    <br /><br />
+
+    <button type="submit">Register</button>
+
+</form>
+
+@if (Model.Submitted)
+{
+    <h3>Registration Successful</h3>
+
+    <p>Student ID: @Model.Student.StudentId</p>
+    <p>Name: @Model.Student.Name</p>
+    <p>Email: @Model.Student.Email</p>
+    <p>Course: @Model.Student.Course</p>
+}

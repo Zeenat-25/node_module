@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\This Pc\\source\\repos\\CachingPractical\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9105D6-8B2D-4B7A-B8E3-60C83095C8D8}|CachingPractical\\CachingPractical.csproj|c:\\users\\this pc\\source\\repos\\cachingpractical\\cachingpractical\\movieticket.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0D9105D6-8B2D-4B7A-B8E3-60C83095C8D8}|CachingPractical\\CachingPractical.csproj|solutionrelative:cachingpractical\\movieticket.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9105D6-8B2D-4B7A-B8E3-60C83095C8D8}|CachingPractical\\CachingPractical.csproj|c:\\users\\this pc\\source\\repos\\cachingpractical\\cachingpractical\\responsemovie.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9105D6-8B2D-4B7A-B8E3-60C83095C8D8}|CachingPractical\\CachingPractical.csproj|solutionrelative:cachingpractical\\responsemovie.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9105D6-8B2D-4B7A-B8E3-60C83095C8D8}|CachingPractical\\CachingPractical.csproj|c:\\users\\this pc\\source\\repos\\cachingpractical\\cachingpractical\\responsemovie.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0D9105D6-8B2D-4B7A-B8E3-60C83095C8D8}|CachingPractical\\CachingPractical.csproj|solutionrelative:cachingpractical\\responsemovie.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9105D6-8B2D-4B7A-B8E3-60C83095C8D8}|CachingPractical\\CachingPractical.csproj|c:\\users\\this pc\\source\\repos\\cachingpractical\\cachingpractical\\movieticket.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9105D6-8B2D-4B7A-B8E3-60C83095C8D8}|CachingPractical\\CachingPractical.csproj|solutionrelative:cachingpractical\\movieticket.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResponseMovie.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\This Pc\\source\\repos\\CachingPractical\\CachingPractical\\ResponseMovie.aspx.cs",
+              "RelativeDocumentMoniker": "CachingPractical\\ResponseMovie.aspx.cs",
+              "ToolTip": "C:\\Users\\This Pc\\source\\repos\\CachingPractical\\CachingPractical\\ResponseMovie.aspx.cs",
+              "RelativeToolTip": "CachingPractical\\ResponseMovie.aspx.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAwwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T23:16:37.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResponseMovie.aspx",
+              "DocumentMoniker": "C:\\Users\\This Pc\\source\\repos\\CachingPractical\\CachingPractical\\ResponseMovie.aspx",
+              "RelativeDocumentMoniker": "CachingPractical\\ResponseMovie.aspx",
+              "ToolTip": "C:\\Users\\This Pc\\source\\repos\\CachingPractical\\CachingPractical\\ResponseMovie.aspx",
+              "RelativeToolTip": "CachingPractical\\ResponseMovie.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-10-06T23:16:30.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieTicket.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\This Pc\\source\\repos\\CachingPractical\\CachingPractical\\MovieTicket.aspx.cs",
+              "RelativeDocumentMoniker": "CachingPractical\\MovieTicket.aspx.cs",
+              "ToolTip": "C:\\Users\\This Pc\\source\\repos\\CachingPractical\\CachingPractical\\MovieTicket.aspx.cs",
+              "RelativeToolTip": "CachingPractical\\MovieTicket.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T23:15:16.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieTicket.aspx",
+              "DocumentMoniker": "C:\\Users\\This Pc\\source\\repos\\CachingPractical\\CachingPractical\\MovieTicket.aspx",
+              "RelativeDocumentMoniker": "CachingPractical\\MovieTicket.aspx",
+              "ToolTip": "C:\\Users\\This Pc\\source\\repos\\CachingPractical\\CachingPractical\\MovieTicket.aspx",
+              "RelativeToolTip": "CachingPractical\\MovieTicket.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-10-06T23:15:02.079Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

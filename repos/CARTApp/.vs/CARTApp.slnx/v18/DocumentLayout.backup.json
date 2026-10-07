@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\This Pc\\source\\repos\\CARTApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{109F3E26-CE3F-40FD-8B30-F0408D76CDD7}|CARTApp\\CARTApp.csproj|c:\\users\\this pc\\source\\repos\\cartapp\\cartapp\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109F3E26-CE3F-40FD-8B30-F0408D76CDD7}|CARTApp\\CARTApp.csproj|solutionrelative:cartapp\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109F3E26-CE3F-40FD-8B30-F0408D76CDD7}|CARTApp\\CARTApp.csproj|c:\\users\\this pc\\source\\repos\\cartapp\\cartapp\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{109F3E26-CE3F-40FD-8B30-F0408D76CDD7}|CARTApp\\CARTApp.csproj|solutionrelative:cartapp\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109F3E26-CE3F-40FD-8B30-F0408D76CDD7}|CARTApp\\CARTApp.csproj|c:\\users\\this pc\\source\\repos\\cartapp\\cartapp\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109F3E26-CE3F-40FD-8B30-F0408D76CDD7}|CARTApp\\CARTApp.csproj|solutionrelative:cartapp\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109F3E26-CE3F-40FD-8B30-F0408D76CDD7}|CARTApp\\CARTApp.csproj|c:\\users\\this pc\\source\\repos\\cartapp\\cartapp\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109F3E26-CE3F-40FD-8B30-F0408D76CDD7}|CARTApp\\CARTApp.csproj|solutionrelative:cartapp\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\This Pc\\source\\repos\\CARTApp\\CARTApp\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "CARTApp\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\This Pc\\source\\repos\\CARTApp\\CARTApp\\Default.aspx.cs",
+              "RelativeToolTip": "CARTApp\\Default.aspx.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T22:35:22.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\This Pc\\source\\repos\\CARTApp\\CARTApp\\Default.aspx",
+              "RelativeDocumentMoniker": "CARTApp\\Default.aspx",
+              "ToolTip": "C:\\Users\\This Pc\\source\\repos\\CARTApp\\CARTApp\\Default.aspx",
+              "RelativeToolTip": "CARTApp\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-10-06T22:35:05.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\This Pc\\source\\repos\\CARTApp\\CARTApp\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "CARTApp\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\This Pc\\source\\repos\\CARTApp\\CARTApp\\ShoppingCart.cs",
+              "RelativeToolTip": "CARTApp\\ShoppingCart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T22:34:52.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\This Pc\\source\\repos\\CARTApp\\CARTApp\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "CARTApp\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\This Pc\\source\\repos\\CARTApp\\CARTApp\\ProductRepository.cs",
+              "RelativeToolTip": "CARTApp\\ProductRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T22:34:32.784Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

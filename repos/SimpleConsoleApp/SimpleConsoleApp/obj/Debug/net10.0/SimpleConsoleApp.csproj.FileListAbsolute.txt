@@ -1,0 +1,15 @@
+C:\Users\This Pc\source\repos\SimpleConsoleApp\SimpleConsoleApp\obj\Debug\net10.0\SimpleConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This Pc\source\repos\SimpleConsoleApp\SimpleConsoleApp\obj\Debug\net10.0\SimpleConsoleApp.AssemblyInfoInputs.cache
+C:\Users\This Pc\source\repos\SimpleConsoleApp\SimpleConsoleApp\obj\Debug\net10.0\SimpleConsoleApp.AssemblyInfo.cs
+C:\Users\This Pc\source\repos\SimpleConsoleApp\SimpleConsoleApp\obj\Debug\net10.0\SimpleConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\This Pc\source\repos\SimpleConsoleApp\SimpleConsoleApp\bin\Debug\net10.0\SimpleConsoleApp.exe
+C:\Users\This Pc\source\repos\SimpleConsoleApp\SimpleConsoleApp\bin\Debug\net10.0\SimpleConsoleApp.deps.json
+C:\Users\This Pc\source\repos\SimpleConsoleApp\SimpleConsoleApp\bin\Debug\net10.0\SimpleConsoleApp.runtimeconfig.json
+C:\Users\This Pc\source\repos\SimpleConsoleApp\SimpleConsoleApp\bin\Debug\net10.0\SimpleConsoleApp.dll
+C:\Users\This Pc\source\repos\SimpleConsoleApp\SimpleConsoleApp\bin\Debug\net10.0\SimpleConsoleApp.pdb
+C:\Users\This Pc\source\repos\SimpleConsoleApp\SimpleConsoleApp\obj\Debug\net10.0\SimpleConsoleApp.dll
+C:\Users\This Pc\source\repos\SimpleConsoleApp\SimpleConsoleApp\obj\Debug\net10.0\refint\SimpleConsoleApp.dll
+C:\Users\This Pc\source\repos\SimpleConsoleApp\SimpleConsoleApp\obj\Debug\net10.0\SimpleConsoleApp.pdb
+C:\Users\This Pc\source\repos\SimpleConsoleApp\SimpleConsoleApp\obj\Debug\net10.0\SimpleConsoleApp.genruntimeconfig.cache
+C:\Users\This Pc\source\repos\SimpleConsoleApp\SimpleConsoleApp\obj\Debug\net10.0\ref\SimpleConsoleApp.dll
+C:\Users\This Pc\source\repos\SimpleConsoleApp\SimpleConsoleApp\obj\Debug\net10.0\SimpleCo.990885C8.Up2Date

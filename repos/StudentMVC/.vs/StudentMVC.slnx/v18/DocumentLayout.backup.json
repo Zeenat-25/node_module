@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\This Pc\\source\\repos\\StudentMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C383C1A-A7D8-47FA-ADCD-DADAABD183FF}|StudentMVC\\StudentMVC.csproj|c:\\users\\this pc\\source\\repos\\studentmvc\\studentmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C383C1A-A7D8-47FA-ADCD-DADAABD183FF}|StudentMVC\\StudentMVC.csproj|solutionrelative:studentmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\This Pc\\source\\repos\\StudentMVC\\StudentMVC\\Program.cs",
+              "RelativeDocumentMoniker": "StudentMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\This Pc\\source\\repos\\StudentMVC\\StudentMVC\\Program.cs",
+              "RelativeToolTip": "StudentMVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T23:31:14.316Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
